@@ -25,6 +25,7 @@ class WordleGame():
         print("apple")
         print("-^  ^")
         print("This means the 'a' is in the correct spot and the 'p' and 'e' are in the word but not in those spots")
+        print("It is important to note that this shows there is only 1 'p' in the word")
         print("At any point during the game, you can type in 'info' or 'i' to get number of lives and already guessed letters")
 
     def loadWord(self):
